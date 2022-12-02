@@ -28,7 +28,7 @@ of the <a href="https://t.me/b4dcat404" target="_blank">Telegram channel</a>
   <img src="https://img.shields.io/badge/Github%20-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker%20-%231572B6.svg?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">HTML5, CSS3, Python3, GitHub, Docker, Linux, Nginx</p>
+<p align="center">HTML5, CSS3, Python3, GitHub, Docker, Linux, Nginx </p>
 
 <hr>
 
