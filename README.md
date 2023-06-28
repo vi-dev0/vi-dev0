@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/vi-dev0/vi-dev0/blob/main/img/header.jpg" alt="header"/>
+  <div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 </div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
