@@ -1,10 +1,9 @@
 <!--
-**Ileriayo/ileriayo**  is a ✨_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 </div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
